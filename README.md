@@ -56,8 +56,8 @@ streamlit run app.py
 
 [Add screenshots of your application here]
 
-![Landing page](images\landing.png)
-![Example](images\questions.png)
+![Landing page](images/landing.png)
+![Example](images/questions.png)
 
 
 ## Project Structure 📁

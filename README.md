@@ -56,13 +56,9 @@ streamlit run app.py
 
 [Add screenshots of your application here]
 
-- Screenshot 1: Main interface
-- Screenshot 2: Chat interaction
-- Screenshot 3: Topic selection
+![Landing page](images\landing.png)
+![Example](images\questions.png)
 
-## Demo Video 🎥
-
-[Add a demo video showing how to use the application]
 
 ## Project Structure 📁
 
@@ -131,11 +127,3 @@ You can modify the following parameters in `functions_3.py`:
 - Streamlit for the web interface
 - Wikipedia API for content access
 - Ollama for the LLM implementation
-
-## Contact 📧
-
-[Add your contact information here]
-
----
-
-Made with ❤️ by [Your Name]
